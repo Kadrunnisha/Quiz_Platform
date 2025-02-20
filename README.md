@@ -1,4 +1,4 @@
-﻿# game-project
+﻿# Quiz_Platform
 
 Website_Link(Vercel):https://as-wheat-beta.vercel.app/
 # tech Stack used
@@ -22,6 +22,5 @@ Ensure you have the following installed:
 ### Steps to Run the Project
 
 1. **Clone the Repository**
-   ```sh
 2. Then run command "npm start"
  <h1>Pleace give an star if you like the project</h1>
